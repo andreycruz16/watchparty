@@ -1,0 +1,1 @@
+{"version":3,"file":"google-recaptcha.d.ts","sourceRoot":"","sources":["../../src/google-recaptcha.tsx"],"names":[],"mappings":"AAIA,MAAM,WAAW,qBAAqB;IACpC,QAAQ,EAAE,CAAC,KAAK,EAAE,MAAM,KAAK,IAAI,GAAG,OAAO,CAAC,IAAI,CAAC,CAAC;IAClD,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB;AAED,wBAAgB,eAAe,CAAC,EAAE,MAAM,EAAE,QAAQ,EAAE,EAAE,qBAAqB,QA0B1E"}
